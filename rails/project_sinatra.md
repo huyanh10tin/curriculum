@@ -123,3 +123,4 @@ Pick either Mastermind or Hangman and build a front end for it.  This one might 
 * Luján Fernaud's solution [github](https://github.com/lujanfernaud/sinatra-countries-hangman) / [see it on the web](https://sinatra-countries-hangman.herokuapp.com/)
 * Pat's solution - Mastermind: [github](https://github.com/Pat878/Sinatra_Mastermind) / [see it on the web](https://sleepy-island-52915.herokuapp.com/)
 * Austin Norman's solution - Hangman: [github](https://github.com/austinnormancore/hangmansinatra) / [see it on the web](https://secure-ridge-15084.herokuapp.com/)
+* Huy Anh's solution [github](https://github.com/huyanh10tin/ciphersinatra) / [see it on the web](https://gentle-tor-31044.herokuapp.com/)
